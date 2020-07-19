@@ -14,25 +14,25 @@ NODEPROP
 </p>
 
 <div>
-  <img src="Prints/01.jpg" alt="demo" height="425">
+  <img src="Prints/01.jpg" alt="demo" height="425" width="450">
   <br>
   <hr>
   <br>
-  <img src="Prints/02.jpg" alt="demo" height="425">
+  <img src="Prints/02.jpg" alt="demo" height="425" width="450">
   <br>
   <hr>
   <br>
-  <img src="Prints/03.jpg" alt="demo" height="425">
+  <img src="Prints/03.jpg" alt="demo" height="425" width="450">
   <br>
   <hr>
   <br>
-  <img src="Prints/04.jpg" alt="demo" height="425" width="425">
-  <img src="Prints/05.jpg" alt="demo" height="425" width="425">
+  <img src="Prints/04.jpg" alt="demo" height="425" width="450">
+  <img src="Prints/05.jpg" alt="demo" height="425" width="450">
   <br>
   <hr>
   <br>
-  <img src="Prints/06.jpg" alt="demo" height="425" width="425">
-  <img src="Prints/07.jpg" alt="demo" height="425" width="425"> 
+  <img src="Prints/06.jpg" alt="demo" height="425" width="450">
+  <img src="Prints/07.jpg" alt="demo" height="425" width="450"> 
 </div>
 
 ## Features
