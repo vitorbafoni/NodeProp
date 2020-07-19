@@ -14,11 +14,9 @@ NODEPROP
 </p>
 
 <div>
-  <p>PÁGINA FULL<p/>
   <img src="Prints/01.jpg" alt="demo" height="425">
   <img src="Prints/02.jpg" alt="demo" height="425">
   <img src="Prints/03.jpg" alt="demo" height="425">
-  <p>PÁGINA MOBILE<p/>
   <img src="Prints/04.jpg" alt="demo" height="425">
   <img src="Prints/05.jpg" alt="demo" height="425">
   <img src="Prints/06.jpg" alt="demo" height="425">
@@ -34,9 +32,7 @@ Essa aplicação foi desenvolvida com o intuito de praticar Front-End e responsi
 
 ## Getting started
 
-1º Baixe ou clone o repositório: https://github.com/vitorbafoni/NodeProp.git
-2º Abra o index.html
-3º Vá reduzindo a tela do navegador para aplicar o design responsivo nas diferentes resoluções.
+Baixe ou clone o repositório: https://github.com/vitorbafoni/NodeProp.git e abra o arquivo index.html
 
 
 ## License
