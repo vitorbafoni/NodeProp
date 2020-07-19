@@ -1,5 +1,4 @@
 <h1 align="center">
-<br>
   <img src="img/logo.png" alt="NodeProp" width="120">
 <br>
 NodeProp
@@ -14,25 +13,25 @@ NodeProp
 </p>
 
 <div>
-  <img src="Prints/01.jpg" alt="demo" height="450" width="100%">
+  <img src="Prints/01.jpg" alt="demo" height="500" width="100%">
   <br>
   <hr>
   <br>
-  <img src="Prints/02.jpg" alt="demo" height="450" width="100%">
+  <img src="Prints/02.jpg" alt="demo" height="500" width="100%">
   <br>
   <hr>
   <br>
-  <img src="Prints/03.jpg" alt="demo" height="450" width="100%">
+  <img src="Prints/03.jpg" alt="demo" height="500" width="100%">
   <br>
   <hr>
   <br>
-  <img src="Prints/04.jpg" alt="demo" height="450" width="49%.3">
-  <img src="Prints/05.jpg" alt="demo" height="450" width="49%.3">
+  <img src="Prints/04.jpg" alt="demo" height="500" width="49%.3">
+  <img src="Prints/05.jpg" alt="demo" height="500" width="49%.3">
   <br>
   <hr>
   <br>
-  <img src="Prints/06.jpg" alt="demo" height="450" width="49.3%">
-  <img src="Prints/07.jpg" alt="demo" height="450" width="49.3%"> 
+  <img src="Prints/06.jpg" alt="demo" height="500" width="49.3%">
+  <img src="Prints/07.jpg" alt="demo" height="500" width="49.3%"> 
 </div>
 
 ## Features
