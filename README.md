@@ -19,13 +19,13 @@ NODEPROP
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="Prints/01" alt="demo" height="425">
-  <img src="Prints/02" alt="demo" height="425">
-  <img src="Prints/03" alt="demo" height="425">
-  <img src="Prints/04" alt="demo" height="425">
-  <img src="Prints/05" alt="demo" height="425">
-  <img src="Prints/06" alt="demo" height="425">
-  <img src="Prints/07" alt="demo" height="425">  
+  <img src="Prints/01.jpg" alt="demo" height="425">
+  <img src="Prints/02.jpg" alt="demo" height="425">
+  <img src="Prints/03.jpg" alt="demo" height="425">
+  <img src="Prints/04.jpg" alt="demo" height="425">
+  <img src="Prints/05.jpg" alt="demo" height="425">
+  <img src="Prints/06.jpg" alt="demo" height="425">
+  <img src="Prints/07.jpg" alt="demo" height="425">  
 </div>
 
 <hr />
