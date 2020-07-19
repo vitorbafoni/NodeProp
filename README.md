@@ -1,10 +1,6 @@
-# NodeProp
-Single page responsiva criada sem bootstrap
-
 <h1 align="center">
 <br>
   <img src="img/logo.png" alt="NODEPROP" width="120">
-<br>
 <br>
 NODEPROP
 </h1>
@@ -17,11 +13,12 @@ NODEPROP
   </a>
 </p>
 
-[//]: # (Add your gifs/images here:)
 <div>
+  <p>PÁGINA FULL<p/>
   <img src="Prints/01.jpg" alt="demo" height="425">
   <img src="Prints/02.jpg" alt="demo" height="425">
   <img src="Prints/03.jpg" alt="demo" height="425">
+  <p>PÁGINA MOBILE<p/>
   <img src="Prints/04.jpg" alt="demo" height="425">
   <img src="Prints/05.jpg" alt="demo" height="425">
   <img src="Prints/06.jpg" alt="demo" height="425">
@@ -31,7 +28,7 @@ NODEPROP
 <hr />
 
 ## Features
-[//]: # (Add the features of your project here:)
+
 Essa aplicação foi desenvolvida com o intuito de praticar Front-End e responsividade.
 
 
