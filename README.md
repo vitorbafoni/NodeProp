@@ -26,13 +26,13 @@ NODEPROP
   <br>
   <hr>
   <br>
-  <img src="Prints/04.jpg" alt="demo" height="425" width="47%">
-  <img src="Prints/05.jpg" alt="demo" height="425" width="47%">
+  <img src="Prints/04.jpg" alt="demo" height="425" width="49%">
+  <img src="Prints/05.jpg" alt="demo" height="425" width="49%">
   <br>
   <hr>
   <br>
-  <img src="Prints/06.jpg" alt="demo" height="425" width="47%">
-  <img src="Prints/07.jpg" alt="demo" height="425" width="47%"> 
+  <img src="Prints/06.jpg" alt="demo" height="425" width="49%">
+  <img src="Prints/07.jpg" alt="demo" height="425" width="49%"> 
 </div>
 
 ## Features
