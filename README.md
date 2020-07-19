@@ -1,8 +1,8 @@
 <h1 align="center">
 <br>
-  <img src="img/logo.png" alt="NODEPROP" width="120">
+  <img src="img/logo.png" alt="NodeProp" width="120">
 <br>
-NODEPROP
+NodeProp
 </h1>
 
 <p align="center">Projeto estático responsivo desenvolvido utilizando somente CSS e Media Queries.</p>
